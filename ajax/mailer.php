@@ -23,7 +23,7 @@ try {
 
     // Recipients
     $mail->setFrom('ommdas4488@gmail.com', 'Hotel Booking');
-    $mail->addAddress('dewansdas0@gmail.com', ' DDeewwaannss');
+    $mail->addAddress('dewansdas0@gmail.com', ' Devdas');
 
     // Content
     $mail->isHTML(true);
